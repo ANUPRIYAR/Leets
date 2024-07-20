@@ -1,0 +1,46 @@
+Parenthesis problem:-
+1.https://leetcode.com/problems/generate-parentheses
+2.https://leetcode.com/problems/score-of-parentheses
+https://leetcode.com/problems/valid-parentheses Easy
+5.https://leetcode.com/problems/remove-outermost-parentheses Easy
+8.https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses Medium
+10.https://leetcode.com/problems/longest-valid-parentheses/ Hard
+
+Counting of substring based on some condition:-
+1.https://leetcode.com/problems/number-of-wonderful-substrings Medium
+2.https://leetcode.com/problems/sum-of-beauty-of-all-substrings/ Medium
+3.https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring Medium
+
+Check types of string:-
+1.https://leetcode.com/problems/isomorphic-strings Easy
+4.https://leetcode.com/problems/buddy-strings Easy
+7.https://leetcode.com/problems/check-if-a-string-can-break-another-string Medium
+8.https://leetcode.com/problems/determine-if-two-strings-are-close Medium
+5.https://leetcode.com/problems/longest-happy-prefix Hard
+
+Palindromic string:-
+6.https://leetcode.com/problems/longest-palindrome Easy
+16.https://leetcode.com/problems/remove-palindromic-subsequences Easy
+10.https://leetcode.com/problems/valid-palindrome-ii Easy
+6.https://leetcode.com/problems/longest-palindrome Easy
+7.https://leetcode.com/problems/longest-palindromic-subsequence Medium
+1.https://leetcode.com/problems/palindrome-partitioning Medium
+2.https://leetcode.com/problems/palindrome-partitioning-ii Hard
+14.https://leetcode.com/problems/palindrome-partitioning-iii Hard
+15.https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome Hard
+
+
+Sorting on String:-
+1.https://leetcode.com/problems/sort-characters-by-frequency Medium
+2.https://leetcode.com/problems/custom-sort-string
+
+Longest and shortest kind of String Problem :-
+7.https://leetcode.com/problems/largest-substring-between-two-equal-characters Easy
+8.https://leetcode.com/problems/largest-odd-number-in-string Easy
+2.https://leetcode.com/problems/longest-string-chain Medium
+3.https://leetcode.com/problems/longest-common-subsequence Medium
+4.https://leetcode.com/problems/longest-happy-string Medium
+https://leetcode.com/problems/longest-duplicate-substring Hard
+6.https://leetcode.com/problems/find-longest-awesome-substring Hard
+
+Reference Link : https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern
